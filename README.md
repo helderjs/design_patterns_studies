@@ -7,6 +7,6 @@ Not only Object Oriented approach on those patterns can be found but also, whene
 [Helder Santana](http://github.com/helderjs)
 [Mateus Chagas](http://github.com/matchs)
 
-* Please, feel free to shoare your knowledge on the subject contributing to this repository with new patterns (and fixing some possible mistakes). *
+*Please, feel free to share your knowledge on the subject contributing to this repository with new patterns (and fixing some possible mistakes).*
 
 
