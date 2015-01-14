@@ -4,8 +4,8 @@ Examples of each pattern in several languages can be found in this repository fo
 Not only Object Oriented approach on those patterns can be found but also, whenever suitable, some functional approaches to it too.
 
 # Contributors
-[Helder Santana](http://github.com/helderjs)
-[Mateus Chagas](http://github.com/matchs)
+* [Helder Santana](http://github.com/helderjs)
+* [Mateus Chagas](http://github.com/matchs)
 
 *Please, feel free to share your knowledge on the subject contributing to this repository with new patterns (and fixing some possible mistakes).*
 
