@@ -4,7 +4,7 @@ Examples of each pattern in several languages can be found in this repository fo
 Not only Object Oriented approaches on those patterns can be found but also, whenever suitable, some functional approaches too.
 
 ## [Patterns](https://github.com/helderjs/design_patterns_studies/wiki)
-### Behavorial
+#### Behavorial
 * [Observer](https://github.com/helderjs/design_patterns_studies/wiki/Observer)
 
 # Contributors
