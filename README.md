@@ -7,7 +7,7 @@ Not only Object Oriented approaches on those patterns can be found but also, whe
 #### Behavorial
 * [Observer](https://github.com/helderjs/design_patterns_studies/wiki/Observer)
 
-# Contributors
+## Contributors
 * [Helder Santana](http://github.com/helderjs)
 * [Mateus Chagas](http://github.com/matchs)
 
